@@ -1,0 +1,160 @@
+{
+    "greeting": {
+        "text": "Hola, soy Atebot, tu asistente virtual de atenea, estoy aquí para ayudarte y resolver tus dudas. Por favor, selecciona la opción que corresponde a tu consulta escribiendo el número correspondiente:"
+    },
+    "1": {
+        "title": "Dashboard",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Explora los programas académicos disponibles",
+                "response": "Contamos con una amplia variedad de opciones que se adaptan a diferentes áreas de estudio y niveles educativos. Puedes encontrar más información en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/bd84de28-ada5-4855-819d-e83f408dc152?fullscreen&hints=off"
+            },
+            "2": {
+                "id": "2",
+                "title": "Revisa el progreso actual en tu plan de estudio",
+                "response": "Para revisar el progreso actual en tu plan de estudio, te recomiendo acceder a nuestro dashboard y dirigirte a la sección de “Mi progreso en el programa académico”. Puedes encontrar la información en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/bd84de28-ada5-4855-819d-e83f408dc152?fullscreen&hints=off"
+            },
+            "3": {
+                "id": "3",
+                "title": "Conoce el histórico de tus calificaciones por asignatura",
+                "response": "Para acceder al registro detallado que te permitirá revisar tu progreso a lo largo del tiempo en cada asignatura, puedes dirigirte al siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/52433aef-52d2-4db7-8fc5-3a54d3cd3dc4?fullscreen&hints=off "
+            }
+        }
+    },
+    "2": {
+        "title": "Mi programa académico",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Entérate en dónde acceder a la información detallada de tu plan de estudios ",
+                "response": "Para acceder a información detallada sobre tu plan de estudio, ve al módulo 'Mi programa académico'. Dentro de este módulo, selecciona el componente formativo y haz clic en 'estructura curricular', ubicado en la parte inferior. Aquí encontrarás tu plan de estudios, donde podrás explorar los diferentes niveles"
+            },
+            "2": {
+                "id": "2",
+                "title": "Encuentra tus sílabos por asignatura",
+                "response": "Para acceder a los sílabos de una asignatura, sigue estos pasos: Dirígete a tu plan de estudios y elige la materia que te interesa. Una vez seleccionada, serás redirigido a una pantalla con el detalle de la asignatura. En esta página, desplázate hacia la barra inferior y localiza la opción \"Sílabos\". Haz clic en ella para abrir el formato que contiene toda la información relevante."
+            },
+            "3": {
+                "id": "3",
+                "title": "Encuentra tus guías por asignatura",
+                "response": "Para acceder a los sílabos de una asignatura, sigue estos pasos: Dirígete a tu plan de estudios y elige la materia que te interesa. Una vez seleccionada, serás redirigido a una pantalla con el detalle de la asignatura. En esta página, desplázate hacia la barra inferior y localiza la opción \"Guía de asignatura\". Haz clic en ella para abrir el formato que contiene toda la información relevante. "
+            }
+        }
+    },
+    "3": {
+        "title": "Núcleo integrador de formación Sanmartiniana",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Explora las asignaturas que forman parte del Núcleo Integrador de Formación Sanmartiniana",
+                "response": "El Núcleo Integrador de Formación Sanmartiniana está compuesto por diversas asignaturas que podrás conocer en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/59a078a1-6ad2-40f0-8d0c-87c962f20f2a?fullscreen&hints=off "
+            },
+            "2": {
+                "id": "2",
+                "title": "Descubre el banco de problemas del NIFS",
+                "response": "El banco de problemas del Núcleo Integrador de Formación Sanmartiniana (NIFS) es una herramienta invaluable con muchos casos que abarcar. Para conocer más de ellos dirígete al siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/f2235ca9-4b0a-4ca5-be60-1b839e957078?fullscreen&hints=off"
+            }
+        }
+    },
+    "4": {
+        "title": "Recursos educativos",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Accede a tu biblioteca virtual",
+                "response": "Para acceder a tu biblioteca virtual, debes dirigirte al menú lateral y seleccionar la opción de \"Mi E-Portafolio\" o por el siguiente enlace: https://xd.adobe.com/view/ec37651f-2ce6-4308-91a7-8380ba1ddbf5-b964/screen/35fa91e1-bbae-40b0-9ac4-0d345d097abf "
+            },
+            "2": {
+                "id": "2",
+                "title": "Descubre el banco de problemas del NIFS",
+                "response": "Para cargar archivos importantes en tu E-Portafolio, sigue estos pasos: Navega a la barra superior en el módulo de E-Portafolio, donde encontrarás el botón \"Cargar Archivo\". Al hacer clic en él, podrás subir documentos, videos, enlaces e imágenes. También puedes asignarles nombres personalizados y palabras clave para facilitar la búsqueda. "
+            },
+            "3": {
+                "id": "3",
+                "title": "Conoce como crear una carpeta en tu E-portafolio",
+                "response": "Para crear una carpeta con éxito en tu E-portafolio, sigue estos pasos sencillos: Haz clic en el botón \"Crear Carpeta\", ingresa el nombre deseado y selecciona un icono representativo si lo deseas. Luego, haz clic en \"Crear\". Así podrás organizar y estructurar tus documentos de manera óptima"
+            },
+            "4": {
+                "id": "4",
+                "title": "Explora materiales adicionales disponibles para tu aprendizaje ",
+                "response": "Para ampliar tu aprendizaje, te invitamos a explorar los materiales adicionales disponibles en el buscador, accede a ellos a través del siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/cd11471e-7c39-4245-a7c3-ee1030810086?fullscreen&hints=off "
+            }
+        }
+    },
+    "5": {
+        "title": "Centro para el aprendizaje de una segunda lengua",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Entérate sobre los cursos y programas ofrecidos",
+                "response": "Descubre los cursos y programas disponibles para el aprendizaje de una segunda lengua en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/fff902b9-2a8c-4568-8ac3-3214583dc01c?fullscreen&hints=off "
+            },
+            "2": {
+                "id": "2",
+                "title": "Descubre cómo inscribirte en una oferta",
+                "response": "Para inscribirte en un curso o programa de tu interés, selecciona el curso deseado y haz clic en \"Ver Más\". Se abrirá una pestaña emergente donde encontrarás el botón de inscripción en la parte inferior. Al hacer clic en él, serás redirigido a la página donde podrás completar el proceso de inscripción. "
+            }
+        }
+    },
+    "6": {
+        "title": "Novedades y eventos",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Infórmate sobre las últimas noticias en la universidad ",
+                "response": "En Atenea, disponemos de un espacio de noticias para que te mantengas informado, puedes acceder a través del menú principal o en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/bf02f97b-b48c-4c5e-b3d7-31289a75d55b?fullscreen&hints=off"
+            },
+            "2": {
+                "id": "2",
+                "title": "Conoce eventos académicos próximos",
+                "response": "No te pierdas ninguno de los próximos eventos académicos de la universidad, así como de las actividades en la plataforma de Moodle. Puedes consultar más detalles en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/d31fed0b-3dfb-4eda-a735-43aef0d140d2?fullscreen&hints=off "
+            },
+            "3": {
+                "id": "3",
+                "title": "Descubre como crear tu evento en el calendario",
+                "response": "Para crear un evento en tu calendario, selecciona el botón \"Crear\" para desplegar las opciones del evento. A continuación, podrás ingresar un título, establecer la hora y fecha, configurar repeticiones y añadir notas relacionadas al evento. Inténtalo en el siguiente enlace: https://xd.adobe.com/view/a57e9583-f5b0-4ffa-a05b-5411e7fb3186-f02d/screen/d31fed0b-3dfb-4eda-a735-43aef0d140d2?fullscreen&hints=off"
+            }
+        }
+    },
+    "7": {
+        "title": "Banco de problemas",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Identifica cuáles problemas puedes desarrollar",
+                "response": "En el banco de problemas encontrarás los casos que resolverás durante tu programa académico. Ten en cuenta que solo podrás responder los correspondientes al semestre que estás cursando. Échale un vistazo en el siguiente enlace: https://xd.adobe.com/view/ec37651f-2ce6-4308-91a7-8380ba1ddbf5-b964/screen/3e1fbf7d-2b09-46c0-8315-775cf9963acb?fullscreen"
+            },
+            "2": {
+                "id": "2",
+                "title": "Conoce cómo puedes responder a un problema",
+                "response": "Para abordar un problema, proporciona tus respuestas a través de la plataforma Moodle. Visita el siguiente enlace: https://xd.adobe.com/view/ec37651f-2ce6-4308-91a7-8380ba1ddbf5-b964/screen/3e1fbf7d-2b09-46c0-8315-775cf9963acb?fullscreen "
+            }
+        }
+    },
+    "8": {
+        "title": "Otras consultas",
+        "options": {
+            "1": {
+                "id": "1",
+                "title": "Encuentra datos de contacto para realizar consultas específicas",
+                "response": "En nuestro directorio encontrarás los contactos necesarios del área administrativa, docente y otros miembros del personal universitario. Obtén más información en el siguiente enlace: https://xd.adobe.com/view/ec37651f-2ce6-4308-91a7-8380ba1ddbf5-b964/screen/37458053-d610-4550-8eec-c9982451f7a1?fullscreen"
+            },
+            "2": {
+                "id": "2",
+                "title": "Descubre información sobre las formas en que se medirá tu progreso y desempeño en cada etapa",
+                "response": "Obtén información sobre la en que se evaluarán los diferentes niveles de tu plan de estudios a través del módulo \"Evaluación de aprendizaje\". Para más detalles, visita el siguiente enlace: https://xd.adobe.com/view/ec37651f-2ce6-4308-91a7-8380ba1ddbf5-b964/screen/49923039-7f1f-45bb-9c9e-9f04e3e41ab8?fullscreen"
+            },
+            "3": {
+                "id": "3",
+                "title": "Entérate cómo compartir documentos específicos con compañeros de clase o profesores (explicación) ",
+                "response": "Para compartir un archivo, al hacer clic en el botón \"Cargar Archivo\", verás la opción \"Privacidad\". Aquí puedes elegir entre compartirlo con todos los estudiantes y docentes de tu carrera, mantenerlo privado o compartirlo específicamente con un profesor. "
+            },
+            "4": {
+                "id": "4",
+                "title": "Guarda tus recursos y materiales favoritos en tu E-portafolio ",
+                "response": "Para guardar tus favoritos, accede al buscador, obtén los resultados y selecciona los recursos de interés con la estrella de favoritos en la parte lateral derecha. "
+            }
+        }
+    }
+}
